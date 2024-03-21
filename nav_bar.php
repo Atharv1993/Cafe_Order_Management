@@ -7,7 +7,7 @@
     <nav class="horizontal-navbar">
         <div class="nav_div">
 
-            <label class="logo">CAFETERIA</label>
+            <label class="logo">CAFE CORNER</label>
             <ul>
                 <li><a href="home.php" id="home">HOME</a></li>
                 <li><a href="customer.php" id="cust">CUSTOMER</a></li>
