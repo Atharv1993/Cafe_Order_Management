@@ -1,0 +1,72 @@
+
+#home{
+    color: goldenrod;
+    padding: 5px;
+}
+
+.home_distance{
+    margin-left: 150px;
+}
+
+.main_img
+{   
+    width: 100%;
+    height: 170px;
+}
+
+.section_1
+{
+    padding-top: 70px;
+    height: 200px;
+    background-color: #C69B7B;
+
+}
+
+.img_label{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    color: #f4f4f4;
+    background-color: none;
+    text-shadow: 2px 2px 4px #333333;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 45px;
+    font-family: auto;
+}
+
+.first_img
+{
+    width: 100%;
+    height: 250px;
+}
+
+.container{
+    padding-top: 70px;
+    margin-left: 150px;
+}
+
+.services{
+    width: 100%;
+    height: 200px;
+}
+
+
+
+footer{
+    background-color: #333;
+    height: 50px;
+    width: 100%;
+}
+.footer_text{
+    text-align: center;
+    color: white;
+    top: 20%;
+    position: relative;
+}
+
+body{
+    background-color: #555;
+}
+
+

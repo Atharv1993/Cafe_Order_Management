@@ -1,0 +1,44 @@
+.add_b{
+    background-color: #333;
+    color: #f4f4f4;
+    width: 100%;
+    height: 100%;
+    padding: 21px;
+    font-size: 15px;
+}
+
+
+
+#butt1:hover{
+    color: goldenrod;
+}
+
+.qnty{
+   margin-left: 18px;
+    top: 10px;
+}   
+
+#sub12{
+    background-color: #333;
+    color: #f4f4f4;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#sub12:hover{
+    color: goldenrod;
+}
+
+.del_b{
+    border: none;
+    background-color: #333;
+    color: #f4f4f4;
+}
+
+.det_div{
+    background-color: #333;
+}
+
+.del_b:hover{
+    color: goldenrod;
+}

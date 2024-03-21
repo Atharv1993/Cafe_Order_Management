@@ -1,0 +1,44 @@
+
+.home_distance{
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.cutomer{
+    margin-left: 550px;
+    align-items: center;
+}
+
+.head{
+    padding: 20px;
+    background-color: #333;
+    color: #f4f4f4;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.detai{
+    margin-left: 550px;
+    align-items: center;
+}
+
+.detai_head{
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.tot{
+    padding-top: 10px;
+    margin-left: 550px;
+}
+
+.for{
+    padding-top: 20px;
+    margin-left: 650px;
+}
+
+.sub123{
+    background-color: #333;
+    color: #f4f4f4;
+    padding: 10px;
+}
